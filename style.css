@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color:white;
+}
+.sec{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    font-size:100px;
+    margin-top:20px;
+    margin-left: 20px;
+}
+.sec1{
+    text-align: justify;
+    font-size: 14px;
+    margin-top:20px;
+    margin-left: 20px;
+    margin-right: 50px
+}
+.con{
+    text-align:justify;
+
+}
+.btn{
+    padding: 10px;
+    border-radius: 50%;
+    border-color: white;
+    background-color: black;
+    color:white;
+    transition: all .3s ;
+}
+.rec{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    border-color: white;
+}
+.con{
+    color:white;
+}
